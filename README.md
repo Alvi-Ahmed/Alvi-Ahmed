@@ -6,7 +6,7 @@ I am a programmer /freelancer with an outgoing personality, excellent communicat
 
 Skills: Flutter / C++ / Python
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Flutter projects. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alvi-Ahmed)  
