@@ -2,7 +2,7 @@
 #### I am a cross-platform Mobile App Developer
 
 
-I am a programmer /freelancer with an outgoing personality, excellent communication, management and IT skills and a strong interest in computers and books. I am currently pursuing an undergraduate degree in CSE in North South University. I am able to work accurately in a busy environment and has the knowledge and enthusiasm required to play a key role in the corporate sector. I will thrive in a public facing role and has a flexible approach and willingness to work across organizations for their mutual benefit.
+I am a programmer /freelancer with an outgoing personality, excellent communication, management and IT skills and a strong interest in computers and books.  I am able to work accurately in a busy environment and has the knowledge and enthusiasm required to play a key role in the corporate sector. I will thrive in a public facing role and has a flexible approach and willingness to work across organizations for their mutual benefit.
 
 Skills: Flutter / C++ / Python
 
